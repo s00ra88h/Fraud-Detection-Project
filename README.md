@@ -6,7 +6,8 @@ Python, Pandas, Scikit-learn, Matplotlib
 
 # What the project covers:
 
-Data preprocessing and cleaning on a large, imbalanced transaction dataset
+# Data preprocessing and cleaning on a large, imbalanced transaction dataset
+
 <img width="576" height="521" alt="Screenshot 1448-05-27 at 2 22 00 PM" src="https://github.com/user-attachments/assets/92c58d0e-2298-49c7-a75c-f52d1ef1ded0" />
 <img width="602" height="453" alt="Screenshot 1448-05-27 at 2 24 22 PM" src="https://github.com/user-attachments/assets/5b52b8c1-5632-4c27-a1ca-3b794758a0ff" />
 <img width="591" height="456" alt="Screenshot 1448-05-27 at 2 24 38 PM" src="https://github.com/user-attachments/assets/9ef315c0-60fa-4f84-b551-e7fabfed1a34" />

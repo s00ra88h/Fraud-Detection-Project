@@ -1,4 +1,4 @@
-A machine learning project for detecting fraudulent financial transactions, built in Python on a dataset of 6.3 million transaction records. The model reaches 95% accuracy, and the project covers the full workflow from raw data to evaluation.
+A machine learning project for detecting fraudulent financial transactions, built in Python on a dataset of 6.3 million transaction records. The model reaches 94% accuracy, and the project covers the full workflow from raw data to evaluation.
 Some records in the dataset were flagged as legitimate by existing detection algorithms, which makes the data useful for studying where rule-based systems fall short and how machine learning can improve on them.
 
 # Tech stack: 
